@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe.config
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\bin\Debug\TestGenerator.exe
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\bin\Debug\TestGenerator.pdb
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Properties.Resources.resources
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.exe
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.pdb
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Form2.resources
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Form3.resources
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Form1.resources
+C:\Users\user\Desktop\School\TestGenerator\TestGenerator\obj\Debug\TestGenerator.Form4.resources
